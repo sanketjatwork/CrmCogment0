@@ -30,7 +30,7 @@ public class TestLoginPage extends Testbase {
 	
 	}
 	
-	@Test(enabled=false)
+	@Test
 	public void LoginPageTitleTest() 
 	{
 		
